@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+body{
+    font-family: 'Varela Round', sans-serif !important;
+    background: #1e1f26 !important;
+
+}
+section{
+    min-height: 636px;
+    background: #1e1f26 !important;
+}
+.image-box {
+    height: 500px;
+}
+.image-box img {
+    height: 100%;
+}
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid #00ffff !important;
+}
+.view_download_botton {
+    position: absolute;
+    top: 35%;
+}
+.btn-secondary {
+    color: #fff;
+    background-color: #6c757d00 !important;
+    border-color: #00ffff  !important;
+    height: 40px;
+    width: 165px;
+    border-radius: 50px !important;
+}
+.devider-icon {
+    color: #934cad;
+    font-size: 35px;
+}
+h2.title {
+    font-size: 34px;
+    font-weight: 600;
+    margin: 19px 0px;
+    text-align: center;
+}
+.mi-about-area.mi-section {
+    background: #191d2b;
+}
+.mi-header-copyright ul li {
+    margin: 0;
+    padding: 0px 10px;
+    list-style: none;
+    float: left;
+    display: flex;
+}
+.mi-header-menu li a{
+    text-decoration: none;
+}
+.dotCircle img {
+    height: 42px;
+    position: relative;
+    top: -7px;
+}
+.header-title {
+    font-size: 43px;
+    position: relative;
+    top: 44px;
+    font-family: inherit;
+    left: -14px;
+}
+.about-paragraph p {
+    color: aliceblue;
+    text-align: left;
+    margin-left: 24px;
+}
+.about-paragraph p {
+    color: aliceblue;
+    text-align: justify;
+    margin-left: 24px;
+    font-size: 16px;
+}
+.name{
+    font-weight: 600;
+}
