@@ -22,8 +22,8 @@
 
 .dotCircle .itemDot {
     display: block;
-    width: 80px;
-    height: 80px;
+    width: 60px;
+    height: 60px;
     position: absolute;
     background: #ffffff;
     color: #7d4ac7;
@@ -75,7 +75,7 @@
     display: block;
 }
 
-.round {
+/* .round {
     position: absolute;
     left: 40px;
     top: 45px;
@@ -84,7 +84,7 @@
     border: 2px dotted #a733bb;
     border-radius: 100%;
     -webkit-animation: rotation 100s infinite linear;
-}
+} */
 
 .dotCircle .itemDot:hover, .dotCircle .itemDot.active {
     color: #ffffff;
@@ -101,7 +101,7 @@
 }
 
 .dotCircle .itemDot {
-    font-size: 40px;
+    font-size: 10px;
 }
 
 .contentCircle {
