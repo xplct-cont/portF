@@ -141,7 +141,7 @@
 }
 
 .contentCircle .CirItem i {
-    font-size: 180px;
+    font-size: 10px;
     position: absolute;
     top: 0;
     left: 50%;
@@ -190,6 +190,7 @@
     letter-spacing: 2px;
     position: relative;
     z-index: -1;
+    font-size: 20px;
 }
 
 .title-box span {
