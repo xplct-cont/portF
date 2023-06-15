@@ -26,7 +26,7 @@
     height: 60px;
     position: absolute;
     background: #ffffff;
-    color: #7d4ac7;
+    color: #00ffff;
     border-radius: 20px;
     text-align: center;
     line-height: 80px;
@@ -51,7 +51,7 @@
     content: '';
     width: 5px;
     height: 5px;
-    border: 3px solid #7d4ac7;
+    border: 3px solid #00ffff;
     bottom: -31px;
     left: -14px;
     filter: blur(1px);
@@ -67,7 +67,7 @@
     top: -15px;
     position: absolute;
     transform: rotate(-45deg);
-    border: 6px solid #a733bb;
+    border: 6px solid #00ffff;
     right: -39px;
 }
 
